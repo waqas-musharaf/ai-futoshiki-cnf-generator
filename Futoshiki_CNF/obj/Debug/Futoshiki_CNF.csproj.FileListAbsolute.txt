@@ -1,0 +1,13 @@
+K:\Final Year\Artificial Intelligence\Assignment 1\Question 6\Futoshiki_CNF\Futoshiki_CNF\bin\Debug\Futoshiki_CNF.exe.config
+K:\Final Year\Artificial Intelligence\Assignment 1\Question 6\Futoshiki_CNF\Futoshiki_CNF\bin\Debug\Futoshiki_CNF.exe
+K:\Final Year\Artificial Intelligence\Assignment 1\Question 6\Futoshiki_CNF\Futoshiki_CNF\bin\Debug\Futoshiki_CNF.pdb
+K:\Final Year\Artificial Intelligence\Assignment 1\Question 6\Futoshiki_CNF\Futoshiki_CNF\obj\Debug\Futoshiki_CNF.csprojAssemblyReference.cache
+K:\Final Year\Artificial Intelligence\Assignment 1\Question 6\Futoshiki_CNF\Futoshiki_CNF\obj\Debug\Futoshiki_CNF.csproj.CoreCompileInputs.cache
+K:\Final Year\Artificial Intelligence\Assignment 1\Question 6\Futoshiki_CNF\Futoshiki_CNF\obj\Debug\Futoshiki_CNF.exe
+K:\Final Year\Artificial Intelligence\Assignment 1\Question 6\Futoshiki_CNF\Futoshiki_CNF\obj\Debug\Futoshiki_CNF.pdb
+C:\Users\Waqas\Desktop\Futoshiki_CNF\Futoshiki_CNF\bin\Debug\Futoshiki_CNF.exe.config
+C:\Users\Waqas\Desktop\Futoshiki_CNF\Futoshiki_CNF\bin\Debug\Futoshiki_CNF.exe
+C:\Users\Waqas\Desktop\Futoshiki_CNF\Futoshiki_CNF\bin\Debug\Futoshiki_CNF.pdb
+C:\Users\Waqas\Desktop\Futoshiki_CNF\Futoshiki_CNF\obj\Debug\Futoshiki_CNF.csprojResolveAssemblyReference.cache
+C:\Users\Waqas\Desktop\Futoshiki_CNF\Futoshiki_CNF\obj\Debug\Futoshiki_CNF.exe
+C:\Users\Waqas\Desktop\Futoshiki_CNF\Futoshiki_CNF\obj\Debug\Futoshiki_CNF.pdb
