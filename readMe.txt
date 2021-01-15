@@ -1,1 +1,1 @@
-Futoshiki_CNF is a DIMACS-CNF format generator that is able to parse any given NxN Futoshiki board and produce output in DIMACS-CNF format. The generated DIMACS-CNF output can be inputted into a SAT solver of your choice in order to get the solution for the given Futoshiki board. 
+Futoshiki_CNF is a DIMACS-CNF format generator that is able to parse any given NxN Futoshiki board and produce output in DIMACS-CNF format. The generated DIMACS-CNF output can be inputted into a SAT solver in order to get the solution for the given Futoshiki board. 
